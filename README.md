@@ -43,6 +43,5 @@ I'm currently pursuing a Master of Computer Applications (2023-2025) at Mar Thom
 I'm always open to collaboration and networking. Connect with me on:
 
 * [LinkedIn](https://www.linkedin.com/in/sabeer-h-8b119a322/)
-* [GitHub](https://github.com/Sabeer65)
 
 Feel free to explore my repositories and reach out!
