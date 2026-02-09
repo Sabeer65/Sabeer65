@@ -62,9 +62,3 @@ Mar Thoma Institute of Information Technology, Kerala, India
 
 - LinkedIn: https://www.linkedin.com/in/sabeer-h-8b119a322/  
 - GitHub: https://github.com/Sabeer65  
-
----
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabeer65&hide_border=true&cache_seconds=1800&theme=transparent)
