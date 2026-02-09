@@ -20,11 +20,11 @@ Web technologies are used mainly as a lightweight interface to interact with AI 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="32" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/meta.svg" width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" width="32" />
 </p>
+
 
 - OpenAI APIs, LLaMA-based models  
 - Prompt engineering and conversational pipelines  
@@ -67,4 +67,4 @@ Mar Thoma Institute of Information Technology, Kerala, India
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabeer65&show_icons=false&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabeer65&hide_border=true&cache_seconds=1800&theme=transparent)
