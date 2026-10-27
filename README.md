@@ -16,7 +16,7 @@ I'm currently looking for **junior AI / LLM engineer roles**, and I'm open to ju
 - Every run saved as JSON and Markdown reports; **Streamlit** dashboard with live per-node streaming
 - **Docker Compose**, **pytest** and **GitHub Actions** CI
 
-🔗 **[Live dashboard](https://agent-sec-project.streamlit.app/)** · 💻 **[Source code](https://github.com/Sabeer65/Agent-Sec)**
+ **[Live dashboard](https://agent-sec-project.streamlit.app/)** ·  **[Source code](https://github.com/Sabeer65/Agent-Sec)**
 
 *Known limits:* it covers prompt injection and system-prompt leakage only, and the judge hasn't yet been measured against a labelled dataset (that's my next upgrade).
 
